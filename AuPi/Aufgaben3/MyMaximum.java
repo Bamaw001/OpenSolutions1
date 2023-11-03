@@ -8,6 +8,7 @@ public class MyMaximum {
         System.out.println(maximum(-13, -17, -19));//-13
     }
 
+
     //Aufgabe 1
     /*
     a)
